@@ -3,10 +3,30 @@
     <title>Nordbruch</title>
     <link href="https://marc199217.github.io/marc199217.github.io/feed.xml" rel="self" />
     <link href="https://marc199217.github.io/marc199217.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-07-24T17:05:00+02:00</updated>
     <author>
         <name>Marc Nordbruch</name>
     </author>
     <id>https://marc199217.github.io/marc199217.github.io</id>
 
+    <entry>
+        <title>Hello world</title>
+        <author>
+            <name>Marc Nordbruch</name>
+        </author>
+        <link href="https://marc199217.github.io/marc199217.github.io/hello-world.html"/>
+        <id>https://marc199217.github.io/marc199217.github.io/hello-world.html</id>
+
+        <updated>2021-07-24T17:05:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello world</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
